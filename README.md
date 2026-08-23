@@ -6,7 +6,7 @@ Besides the notes and slides associated with the chapters below, there are also 
 - [Video: Introduction to Public Finance](https://youtu.be/DJgiLuHViOk)
 - [Video: Monetary Values over Time](https://youtu.be/t2bxcZF4pq4)
 
-***Role of Government in the Economy*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Role%20of%20Government%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFiance/raw/main/Slides/Role%20of%20Government%20(Slides).pdf)]
+***Role of Government in the Economy*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Role%20of%20Government%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Role%20of%20Government%20(Slides).pdf)]
 
 - [Video: Role of Government in the Economy](https://youtu.be/W0R9ZmbHb1I)
 
