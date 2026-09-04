@@ -10,7 +10,10 @@ Besides the notes and slides associated with the chapters below, there are also 
 
 - [Video: Role of Government in the Economy](https://youtu.be/W0R9ZmbHb1I)
 
-***Basics of Budget Preparation***
+***Basics of Budget Preparation*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Basics%20of%20Budget%20Preparation%20(Notes).pdf)]
+
+- Basics of Budget Preparation: [Video](https://youtu.be/3ryVkmq3D-c) and [Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Basics%20of%20Budget%20Preparation%20(Slides).pdf)
+- Government Accounting: [Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Government%20Accounting%20(Slides).pdf)
 
 ***Budgeting in the United States***
 
