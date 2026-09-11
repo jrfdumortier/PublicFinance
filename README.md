@@ -18,15 +18,13 @@ Besides the notes and slides associated with the chapters below, there are also 
 ***Budgeting in the United States*** [[Notes]()][[Slides]()]
 
 - [Video: Budgeting in the United States](https://youtu.be/bV7ngmXHi3E?si=UYESGlB54m3YZQEz)
-
-
- and [Slides](https://github.com/jrfdumortier/slidespublicfinance/blob/main/BudgetingUnitedStates.pdf)
-- [Federal Government Budget Infographic](https://github.com/jrfdumortier/slidespublicfinance/blob/main/FederalBudgetInfographic.pdf)
-- [Budget Function Classification](https://www.gao.gov/products/aimd-98-67)
+- [Federal Government Budget Infographic](https://github.com/jrfdumortier/PublicFinance/blob/main/Additional%20Material/FederalBudgetInfographic.pdf)
+- [Budget Function Classification](https://github.com/jrfdumortier/PublicFinance/raw/main/Additional%20Material/GAO%20Budget%20Function%20Classification.pdf)
 - [A Glossary of Terms Used in the Federal Budget Process](https://www.gao.gov/products/gao-05-734sp)
 
+***Budget Formats and Performance*** [Notes]()
 
-***Budget Methods and Format***
+- Budget Methods and Format: [Video](https://youtu.be/-RjBA0MDG_w?si=u0QBRk-HGG-ne4PW) and [Slides](https://github.com/jrfdumortier/slidespublicfinance/blob/main/BudgetMethodsFormat.pdf)
 
 ***Cost Analysis***
 
