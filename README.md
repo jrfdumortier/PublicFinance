@@ -15,7 +15,16 @@ Besides the notes and slides associated with the chapters below, there are also 
 - Basics of Budget Preparation: [Video](https://youtu.be/3ryVkmq3D-c) and [Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Basics%20of%20Budget%20Preparation%20(Slides).pdf)
 - Government Accounting: [Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Government%20Accounting%20(Slides).pdf)
 
-***Budgeting in the United States***
+***Budgeting in the United States*** [[Notes]()][[Slides]()]
+
+- [Video: Budgeting in the United States](https://youtu.be/bV7ngmXHi3E?si=UYESGlB54m3YZQEz)
+
+
+ and [Slides](https://github.com/jrfdumortier/slidespublicfinance/blob/main/BudgetingUnitedStates.pdf)
+- [Federal Government Budget Infographic](https://github.com/jrfdumortier/slidespublicfinance/blob/main/FederalBudgetInfographic.pdf)
+- [Budget Function Classification](https://www.gao.gov/products/aimd-98-67)
+- [A Glossary of Terms Used in the Federal Budget Process](https://www.gao.gov/products/gao-05-734sp)
+
 
 ***Budget Methods and Format***
 
