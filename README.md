@@ -15,16 +15,19 @@ Besides the notes and slides associated with the chapters below, there are also 
 - Basics of Budget Preparation: [Video](https://youtu.be/3ryVkmq3D-c) and [Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Basics%20of%20Budget%20Preparation%20(Slides).pdf)
 - Government Accounting: [Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Government%20Accounting%20(Slides).pdf)
 
-***Budgeting in the United States*** [[Notes]()][[Slides]()]
+***Budgeting in the United States*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Budgeting%20in%20the%20United%20States%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Budgeting%20in%20the%20United%20States%20(Slides).pdf)]
 
 - [Video: Budgeting in the United States](https://youtu.be/bV7ngmXHi3E?si=UYESGlB54m3YZQEz)
 - [Federal Government Budget Infographic](https://github.com/jrfdumortier/PublicFinance/blob/main/Additional%20Material/FederalBudgetInfographic.pdf)
+
+The following items are for your information only and there is no need to read them:
+
 - [Budget Function Classification](https://github.com/jrfdumortier/PublicFinance/raw/main/Additional%20Material/GAO%20Budget%20Function%20Classification.pdf)
 - [A Glossary of Terms Used in the Federal Budget Process](https://www.gao.gov/products/gao-05-734sp)
 
-***Budget Formats and Performance*** [Notes]()
+***Budget Formats and Performance*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Budget%20Formats%20and%20Performance%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Budget%20Formats%20and%20Performance%20(Slides).pdf)]
 
-- Budget Methods and Format: [Video](https://youtu.be/-RjBA0MDG_w?si=u0QBRk-HGG-ne4PW) and [Slides](https://github.com/jrfdumortier/slidespublicfinance/blob/main/BudgetMethodsFormat.pdf)
+- [Video: Budget Methods and Format](https://youtu.be/-RjBA0MDG_w?si=u0QBRk-HGG-ne4PW)
 
 ***Cost Analysis***
 
