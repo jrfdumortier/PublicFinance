@@ -29,7 +29,12 @@ The following items are for your information only and there is no need to read t
 
 - [Video: Budget Methods and Format](https://youtu.be/-RjBA0MDG_w?si=u0QBRk-HGG-ne4PW)
 
-***Cost Analysis***
+***Cost Accounting and Analysis*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Cost%20Accounting%20and%20Analysis%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Cost%20Accounting%20and%20Analysis%20(Slides).pdf)]
+
+- [Video: Cost Accounting Concepts](https://youtu.be/Oozd-qZhOP4)
+- [Video: Hoosier County Road Department](https://youtu.be/zWtrF5ZAddU)
+- [Video: Hoosier Police Department](https://youtu.be/jSfDmlUY-ok)
+- [Case Study: Farm-to-Table 4 All](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Case%20Study%20Farm-to-Table%204%20All.pdf)
 
 ***Capital Budgeting***
 
