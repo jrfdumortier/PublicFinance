@@ -36,9 +36,13 @@ The following items are for your information only and there is no need to read t
 - [Video: Hoosier Police Department](https://youtu.be/jSfDmlUY-ok)
 - [Case Study: Farm-to-Table 4 All](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Case%20Study%20Farm-to-Table%204%20All.pdf)
 
-***Capital Budgeting***
+***Capital Budgeting*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Capital%20Budgeting%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Capital%20Budgeting%20(Slides).pdf)]
 
-***Introduction to Government Revenue***
+- [Video: Capital Budgeting](https://youtu.be/aC51T8UI-Cw)
+
+***Introduction to Government Revenue*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Introduction%20to%20Government%20Revenue%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Introduction%20to%20Government%20Revenue%20(Slides).pdf)]
+
+- [Video: Introduction to Government Revenue](https://youtu.be/hRJke0bA8TQ)
 
 ***Income Taxes***
 
