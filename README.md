@@ -44,7 +44,9 @@ The following items are for your information only and there is no need to read t
 
 - [Video: Introduction to Government Revenue](https://youtu.be/hRJke0bA8TQ)
 
-***Income Taxes***
+***Income Taxes*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Income%20Taxes%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Income%20Taxes%20(Slides).pdf)]
+
+- [Video: Income Taxes](https://youtu.be/HwAnME8Wong)
 
 ***Taxes on Goods and Services***
 
