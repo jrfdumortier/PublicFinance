@@ -48,9 +48,13 @@ The following items are for your information only and there is no need to read t
 
 - [Video: Income Taxes](https://youtu.be/HwAnME8Wong)
 
-***Taxes on Goods and Services***
+***Consumption Taxes*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Consumption%20Taxes%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Consumption%20Taxes%20(Slides).pdf)]
 
-***Property Taxes***
+- [Video: Consumption Taxes](https://youtu.be/kGVytbqK2h4)
+
+***Property Taxes*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Property%20Taxes%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Porperty%20Taxes%20(Slides).pdf)]
+
+- [Video: Property Taxes](https://youtu.be/ZZvEzGUxf1M)
 
 ***Other Revenue Sources***
 
