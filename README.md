@@ -52,7 +52,7 @@ The following items are for your information only and there is no need to read t
 
 - [Video: Consumption Taxes](https://youtu.be/kGVytbqK2h4)
 
-***Property Taxes*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Property%20Taxes%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/blob/main/Slides/Property%20Taxes%20(Slides).pdf]
+***Property Taxes*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Property%20Taxes%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Property%20Taxes%20(Slides).pdf)]
 
 - [Video: Property Taxes](https://youtu.be/ZZvEzGUxf1M)
 
