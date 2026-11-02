@@ -56,7 +56,7 @@ The following items are for your information only and there is no need to read t
 
 - [Video: Property Taxes](https://youtu.be/ZZvEzGUxf1M)
 
-***Other Revenue Sources*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Other%20Revenue%20Sources%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Other%20Revenue%20Sources%20(Slides).pdf))]
+***Other Revenue Sources*** [[Notes](https://github.com/jrfdumortier/PublicFinance/raw/main/Notes/Other%20Revenue%20Sources%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PublicFinance/raw/main/Slides/Other%20Revenue%20Sources%20(Slides).pdf)]
 
 - [Video: Other Revenue Sources](https://youtu.be/IE1ozcrTkuY)
 
